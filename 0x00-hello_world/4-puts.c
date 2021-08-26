@@ -4,6 +4,8 @@
  * main - entry point
  *
  * prints out result using puts
+ *
+ * return value - (0)means success
 */
 
 int main(void)
