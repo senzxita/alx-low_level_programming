@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * prints out result using puts
+ * prints out result using printf
  *
  * Return: 0 (successful)
 */
