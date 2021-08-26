@@ -5,7 +5,7 @@
  *
  * prints out result using puts
  *
- * return value - (0)means success
+ * Return: Always 0 (successful)
 */
 
 int main(void)
