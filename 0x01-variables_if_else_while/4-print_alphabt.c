@@ -3,7 +3,7 @@
 /**
  * main - print the letters of the alphabet except q and e
  *
- * Return: Always 0 (Success)
+ * Return: 0 (Successful)
  */
 
 int main(void)
