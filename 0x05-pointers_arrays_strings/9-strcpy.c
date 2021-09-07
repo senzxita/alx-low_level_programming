@@ -2,11 +2,11 @@
 #include "main.h"
 
 /**
- *_strcpy - copies the string pointed to by src
+ *_strcpy - copies word pointed to by src
  *@dest: pointer char void
  *@src: pointer char source
  *
- *Return: dest data
+ *Return: destination data
  */
 char *_strcpy(char *dest, char *src)
 {

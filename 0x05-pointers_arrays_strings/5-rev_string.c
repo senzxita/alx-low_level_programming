@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
- *rev_string - reverses string.
+ *rev_string - reverses word(s).
  *@s: value to be evaluated.
  *
- *Return: none
+ *Return: no value
  */
 void rev_string(char *s)
 {

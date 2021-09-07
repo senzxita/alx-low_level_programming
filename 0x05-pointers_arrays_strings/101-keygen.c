@@ -4,9 +4,9 @@
 #include <math.h>
 
 /**
- * main - generates random valid passwords
+ * main - generates valid passwords
  *
- * Return: 0 (successful)
+ * Return: 0 (No errors)
  */
 int main(void)
 {

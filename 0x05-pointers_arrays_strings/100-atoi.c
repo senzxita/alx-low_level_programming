@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _atoi - converts a string to an integer
- * @s: input string
+ * _atoi -changes an array of letters to an integer
+ * @s: input word
  *
  * Return: int
  */

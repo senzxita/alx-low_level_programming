@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *print_array - prints n elements of an array of integers
- *@a: pointer integer
- *@n: parameter integer
+ *print_array - prints an array of integers
+ *@a: pointer number
+ *@n: parameter number
  *
- *Return: void
+ *Return: no value
  */
 void print_array(int *a, int n)
 {
